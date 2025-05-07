@@ -14,9 +14,10 @@ export const websites_collection: Websites = {
     BASE: "https://aniwatchtv.to",
     CLONES: {
       HiAnime: [
-        "https://hianimez.to",
+        "https://hianime.to",
         "https://hianime.nz",
-        "https://hianime.sx",
+        "https://hianime.bz",
+        "https://hianime.pe",
       ],
     },
   },
